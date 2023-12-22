@@ -1,0 +1,1 @@
+Reptile: name=Varanus Salvator, age=11, sex=Male, scaleType=A black temporal band edged with yellow that extends back from each eye, tailLength=114
